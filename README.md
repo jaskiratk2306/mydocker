@@ -1,4 +1,4 @@
-# Docker Project
+# Student Management System
 
 ## Steps
 1. Build image: docker build -t myapp .
